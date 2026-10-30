@@ -1,0 +1,4 @@
+Pillow>=10.0
+opencv-contrib-python>=4.10
+mediapipe>=0.10.21
+pyserial>=3.5
